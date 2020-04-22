@@ -1,6 +1,6 @@
 # Useful sorting algorithms in Python for interviews
 
-1 **Merge sort**
+1. **Merge sort**
 
 Time complexity - O(NlogN). Takes O(N) of auxiliary space.
 Lafore wrote it is useful for hard drive sorts. 
